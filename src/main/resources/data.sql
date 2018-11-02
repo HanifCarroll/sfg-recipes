@@ -1,0 +1,11 @@
+insert into category (description) values ('american');
+insert into category (description) values ('indian');
+insert into category (description) values ('italian');
+insert into category (description) values ('mexican');
+insert into unit_of_measure (description) values ('teaspoon');
+insert into unit_of_measure (description) values ('tablespoon');
+insert into unit_of_measure (description) values ('cup');
+insert into unit_of_measure (description) values ('pinch');
+insert into unit_of_measure (description) values ('ounce');
+insert into unit_of_measure (description) values ('pint');
+insert into unit_of_measure (description) values ('number');
